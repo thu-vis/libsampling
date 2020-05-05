@@ -38,7 +38,8 @@ Our goal is to facilitate the using of the popular sampling methods in visualiza
 
 ## Download LibSampling
 
-You can be obtained **LibSampling** for the the current release (Version 1.0, April 2020) by directly cloning this repository.
+**LibSampling** for the current release (Version 1.0, April 2020) can be obtained by directly cloning this repository.
+
 
 ## Quick Start
 
