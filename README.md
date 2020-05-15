@@ -1,7 +1,7 @@
 LibSampling
 ==========
 
-##### A Library of  Sampling Methods for Scatterplots
+##### A Library of  Sampling Methods for 2D Scatterplots
 
 ![](fig1.png)
 
