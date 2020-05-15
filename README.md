@@ -7,7 +7,7 @@ LibSampling
 
 ## Introduction
 
-**LibSampling** is a python based library of sampling methods for 2D scatterplots, including:
+**LibSampling** is a python-based library of sampling methods for 2D scatterplots, which includes:
 
 + random sampling
 + density biased sampling [1] 
@@ -24,7 +24,7 @@ LibSampling
 + multi-view Z-order sampling [5] 
 + recursive subdivision based sampling [12] 
 
-Our goal is to facilitate the using of the popular sampling methods in visualization, graphics, and data mining. **LibSampling** provides a simple python interface where users can easily apply it on their data, and we provide python source codes. 
+Our goal is to facilitate the use of the popular sampling methods in visualization, graphics, and data mining. **LibSampling** provides a simple python interface where users can easily apply an appropriate sampling method to their data.
 
 ## Requirement
 
@@ -38,12 +38,12 @@ Our goal is to facilitate the using of the popular sampling methods in visualiza
 
 ## Download LibSampling
 
-**LibSampling** for the current release (Version 1.0, April 2020) can be obtained by directly cloning this repository.
+The current release (Version 1.0, April 2020)  of **LibSampling** can be obtained by directly cloning this repository.
 
 
 ## Quick Start
 
-A typical way to call a sampling method on your data is as below, where $n$ and $m$ are the sizes of the input data and the output data (sampling result), respectively.
+Below is the example code to call a sampling method, where n​ and m are the sizes of the input and output data (sampling result), respectively.
 
 ```python
 from sampling.Sampler import *
@@ -61,7 +61,7 @@ sampled_data, sampled_labels = sampler.get_samples()
 # sampled_labels: an (m*2) numpy array indicating the class labels of the sampled points
 ```
 
-A more complete sample code for the usages of **LibSampling** is provided in `example_sampling.py` :
+A more complete example of how to use **LibSampling** is provided in `example_sampling.py` :
 
 ```python
 import numpy as np
