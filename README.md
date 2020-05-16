@@ -24,7 +24,9 @@ LibSampling
 + multi-view Z-order sampling [5] 
 + recursive subdivision based sampling [12] 
 
-Our goal is to facilitate the use of the popular sampling methods in visualization, graphics, and data mining. **LibSampling** provides a simple python interface where users can easily apply an appropriate sampling method to their data.
+Our goal is to facilitate the use of the popular sampling methods in visualization, graphics, and data mining. **LibSampling** provides a simple python interface where users can easily apply an appropriate sampling method to their data. The characteristics of the sampling methods and the evaluation results of our study are listed as follows:
+
+![](table.png)
 
 ## Requirement
 
