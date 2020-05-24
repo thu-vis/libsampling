@@ -127,7 +127,7 @@ print(sampled_point, sampled_category)
 
 ## Datasets
 
-The folder `data` contains several datasets in the *npz* format used in our study.  You can obtain them by unzipping the *npz* file:
+The folder `data` contains the datasets in the *npz* format used in our study.  You can obtain them by unzipping the *npz* file:
 
 ```python
 # Datasets used in our study
