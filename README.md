@@ -143,10 +143,10 @@ As most of them are high-dimensional datasets, we transform them into 2D data us
 | *Condition Based Maintenance* [13] | 10000 | 9     |
 | *Crowdsourced Mapping* [14]        | 10845 | 6     |
 | *MNIST* [15]                       | 70000 | 10    |
-| *Clothes* [16]                     | 26589 | 10    |
-| *Epileptic Seizure* [17]           | 11500 | 4     |
+| *Clothes* [9]                      | 26589 | 10    |
+| *Epileptic Seizure* [16]           | 11500 | 4     |
 | *Swiss Roll 3D* [12]               | 10000 | 4     |
-| *Abalone* [18]                     | 4177  | 3     |
+| *Abalone* [17]                     | 4177  | 3     |
 
 The projection results of the full datasets are shown in the following figure, where colors encode classes in each scatterplot.
 
@@ -179,3 +179,15 @@ Visual Analytics Science and Technology, pages 57–68, 2019.
 
 [11] X. Chen, T. Ge, J. Zhang, B. Chen, C. Fu, O. Deussen, and Y. Wang. A recursive subdivision technique for sampling multi-class scatterplots. IEEE Transactions on Visualization and Computer Graphics, 26(1):729– 738, 2020.
 
+[12] D. Surendran. Swiss roll dataset. https://people.cs.uchicago.edu/~dinoj/manifold/swissroll.html, 2004. Last accessed 2019-04-30.
+
+[13] A. Coraddu, L. Oneto, A. Ghio, S. Savio, D. Anguita, and M. Figari. Machine learning approaches for improving condition-based maintenance of naval propulsion plants. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 230(1):136–153, 2014.
+
+[14] B. A. Johnson and K. Iizuka. Integrating OpenStreetMap crowdsourced
+data and landsat time-series imagery for rapid land use/land cover (LULC) mapping: Case study of the laguna de bay area of the philippines. Applied Geography, 67:140–149, 2016.
+
+[15] Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11):2278– 2324, 1998.
+
+[16] R.G.Andrzejak,K.Lehnertz,F.Mormann,C.Rieke,P.David,andC.E. Elger. Indications of nonlinear deterministic and finite-dimensional struc- tures in time series of brain electrical activity: Dependence on recording region and brain state. Physical Review E, 64(6):061907, 2001.
+
+[17] D. Dua and C. Graff. UCI machine learning repository, 2017.
