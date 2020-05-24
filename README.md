@@ -142,10 +142,10 @@ As most of them are high-dimensional datasets, we transform them into 2D data us
 | *Swiss Roll 2D* [12]               | 8000  | 4     |
 | *Condition Based Maintenance* [13] | 10000 | 9     |
 | *Crowdsourced Mapping* [14]        | 10845 | 6     |
+| *Swiss Roll 3D* [12]               | 10000 | 4     |
 | *MNIST* [15]                       | 70000 | 10    |
 | *Clothes* [9]                      | 26589 | 10    |
 | *Epileptic Seizure* [16]           | 11500 | 4     |
-| *Swiss Roll 3D* [12]               | 10000 | 4     |
 | *Abalone* [17]                     | 4177  | 3     |
 
 The projection results of the full datasets are shown in the following figure, where colors encode classes in each scatterplot.
