@@ -71,8 +71,16 @@ from sampling.Sampler import *
 from sampling.SamplingMethods import *
 
 print("run Sampler.py")
+
+# Simple synthetic data
 points = np.random.random((10000, 2)) # Generated data, the input data should be a numpy array with the shape (n, 2)
 categories = np.random.randint(0, 10, 10000) # Generated label, multi-class sampling method would consider the label information as an reason to select or not select an item. It would be a np.zeros(n) as default.
+
+# Datasets used in our study
+all_data = np.load(os.path.join('data', 'abalone.npz'))
+points, categories = all_data['positions'], all_data['labels']
+
+print(points.shape, categories.shape)
 
 sampler = Sampler()
 
@@ -117,6 +125,33 @@ print("Recursive subdivision based sampling result:")
 print(sampled_point, sampled_category)
 ```
 
+## Datasets
+
+The folder `data` contains several datasets in the *npz* format used in our study.  You can obtain them by unzipping the *npz* file like this:
+
+```python
+# Datasets used in our study
+all_data = np.load(os.path.join('data', 'abalone.npz'))
+points, categories = all_data['positions'], all_data['labels']
+```
+
+As most of them are high-dimensional datasets, we transform them into 2D data using t-SNE and normalize them to [0, 1] × [0, 1]. The basic information of these datasets are listed as follows:
+
+| name                               | size  | class |
+| ---------------------------------- | ----- | ----- |
+| *Swiss Roll 2D* [12]               | 8000  | 4     |
+| *Condition Based Maintenance* [13] | 10000 | 9     |
+| *Crowdsourced Mapping* [14]        | 10845 | 6     |
+| *MNIST* [15]                       | 70000 | 10    |
+| *Clothes* [16]                     | 26589 | 10    |
+| *Epileptic Seizure* [17]           | 11500 | 4     |
+| *Swiss Roll 3D* [12]               | 10000 | 4     |
+| *Abalone* [18]                     | 4177  | 3     |
+
+The projection results of the full datasets are shown in the following figure, where colors encode classes in each scatterplot.
+
+![](fig2.png)
+
 ## References
 
 [1] C. R. Palmer and C. Faloutsos. Density biased sampling: An improved method for data mining and clustering. In *Proceedings of the ACM SIG- MOD International Conference on Management of Data*, pages 82–92, 2000.
@@ -143,3 +178,4 @@ Visual Analytics Science and Technology, pages 57–68, 2019.
 [10] L.-Y.Wei.Multi-classbluenoisesampling.*ACMTransactionsonGraph- ics*, 29(4):79, 2010.
 
 [11] X. Chen, T. Ge, J. Zhang, B. Chen, C. Fu, O. Deussen, and Y. Wang. A recursive subdivision technique for sampling multi-class scatterplots. IEEE Transactions on Visualization and Computer Graphics, 26(1):729– 738, 2020.
+

@@ -1,10 +1,19 @@
+import os
 import numpy as np
 from sampling.Sampler import *
 from sampling.SamplingMethods import *
 
 print("run Sampler.py")
+
+# Simple synthetic data
 points = np.random.random((10000, 2)) # Generated data, the input data should be a numpy array with the shape (n, 2)
 categories = np.random.randint(0, 10, 10000) # Generated label, multi-class sampling method would consider the label information as an reason to select or not select an item. It would be a np.zeros(n) as default.
+
+# Datasets used in our study
+all_data = np.load(os.path.join('data', 'abalone.npz'))
+points, categories = all_data['positions'], all_data['labels']
+
+print(points.shape, categories.shape)
 
 sampler = Sampler()
 
