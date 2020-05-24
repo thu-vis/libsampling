@@ -127,7 +127,7 @@ print(sampled_point, sampled_category)
 
 ## Datasets
 
-The folder `data` contains several datasets in the *npz* format used in our study.  You can obtain them by unzipping the *npz* file like this:
+The folder `data` contains several datasets in the *npz* format used in our study.  You can obtain them by unzipping the *npz* file:
 
 ```python
 # Datasets used in our study
@@ -135,7 +135,7 @@ all_data = np.load(os.path.join('data', 'abalone.npz'))
 points, categories = all_data['positions'], all_data['labels']
 ```
 
-As most of them are high-dimensional datasets, we transform them into 2D data using t-SNE and normalize them to [0, 1] × [0, 1]. The basic information of these datasets are listed as follows:
+As most of them are high-dimensional datasets, we transform them into 2D data using t-SNE and normalize them to [0, 1] × [0, 1]. The basic information of these datasets is as follows:
 
 | name                               | size  | class |
 | ---------------------------------- | ----- | ----- |
@@ -148,7 +148,7 @@ As most of them are high-dimensional datasets, we transform them into 2D data us
 | *Epileptic Seizure* [16]           | 11500 | 4     |
 | *Abalone* [17]                     | 4177  | 3     |
 
-The projection results of the full datasets are shown in the following figure, where colors encode classes in each scatterplot.
+The projection results of the full datasets are shown in the following figure, where colors encode classes.
 
 ![](fig2.png)
 
