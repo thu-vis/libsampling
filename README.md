@@ -154,11 +154,7 @@ The projection results of the full datasets are shown in the following figure, w
 
 ## Additional Information
 
-If you find **LibSampling** helpful, please cite it as:
-
-J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
-
-The bibtex format is
+If you find **LibSampling** helpful, please cite our work as:
 
 ```
 @article{Yuan2021Evaluation, 
@@ -168,9 +164,11 @@ The bibtex format is
     year={2021}, 
     volume={27}, 
     number={1}, 
-    pages={1--1}, 
+    pages={1--1}
 }
 ```
+
+J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
 
 ## References
 
