@@ -161,14 +161,14 @@ J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for
 The bibtex format is
 
 ```
-@ARTICLE{Yuan2021Evaluation, 
-author={J. Yuan and S. Xiang and J. Xia and L. Yu and S. Liu}, 
-journal={IEEE Transactions on Visualization and Computer Graphics}, 
-title={Evaluation of Sampling Methods for Scatterplots}, 
-year={2021}, 
-volume={27}, 
-number={1}, 
-pages={1--1}, 
+@article{Yuan2021Evaluation, 
+    author={J. Yuan and S. Xiang and J. Xia and L. Yu and S. Liu}, 
+    journal={IEEE Transactions on Visualization and Computer Graphics}, 
+    title={Evaluation of Sampling Methods for Scatterplots}, 
+    year={2021}, 
+    volume={27}, 
+    number={1}, 
+    pages={1--1}, 
 }
 ```
 
