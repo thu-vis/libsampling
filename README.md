@@ -154,7 +154,7 @@ The projection results of the full datasets are shown in the following figure, w
 
 ## Additional Information
 
-If you find **LibSampling** helpful, please cite our work as:
+Please cite our work as:
 
 ```
 @article{Yuan2021Evaluation, 
