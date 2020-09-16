@@ -152,6 +152,26 @@ The projection results of the full datasets are shown in the following figure, w
 
 ![](fig2.png)
 
+## Additional Information
+
+If you find LibSampling helpful, please cite it as:
+
+J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
+
+The bibtex format is
+
+```
+@ARTICLE{Yuan2021Evaluation, 
+author={J. Yuan and S. Xiang and J. Xia and L. Yu and S. Liu}, 
+journal={IEEE Transactions on Visualization and Computer Graphics}, 
+title={Evaluation of Sampling Methods for Scatterplots}, 
+year={2021}, 
+volume={27}, 
+number={1}, 
+pages={1--1}, 
+}
+```
+
 ## References
 
 [1] C. R. Palmer and C. Faloutsos. Density biased sampling: An improved method for data mining and clustering. In *Proceedings of the ACM SIG- MOD International Conference on Management of Data*, pages 82–92, 2000.
