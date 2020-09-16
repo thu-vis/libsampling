@@ -154,7 +154,7 @@ The projection results of the full datasets are shown in the following figure, w
 
 ## Additional Information
 
-If you find LibSampling helpful, please cite it as:
+If you find **LibSampling** helpful, please cite it as:
 
 J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
 
