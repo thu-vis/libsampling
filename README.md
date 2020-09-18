@@ -45,7 +45,7 @@ The current release (Version 1.0, April 2020)  of **LibSampling** can be obtaine
 
 ## Quick Start
 
-Below is the example code to call a sampling method, where n​ and m are the sizes of the input and output data (sampling result), respectively.
+Below is the example code to call a sampling method, where n and m are the sizes of the input and output data (sampling result), respectively.
 
 ```python
 from sampling.Sampler import *
@@ -172,28 +172,25 @@ J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for
 
 ## References
 
-[1] C. R. Palmer and C. Faloutsos. Density biased sampling: An improved method for data mining and clustering. In *Proceedings of the ACM SIG- MOD International Conference on Management of Data*, pages 82–92, 2000.
+[1] C. R. Palmer and C. Faloutsos. Density biased sampling: An improved method for data mining and clustering. In Proceedings of the ACM SIG- MOD International Conference on Management of Data, pages 82–92, 2000.
 
 [2] R. L. Cook. Stochastic sampling in computer graphics. ACM Trans. Graph., 5(1):51–72, 1986.
 
-[3] M. Berger, K. McDonough, and L. M. Seversky. cite2vec: Citation- driven document exploration via word embeddings. IEEE transactions on visualization and computer graphics, 23(1):691–700, 2016.
+[3] M. Berger, K. McDonough, and L. M. Seversky. cite2vec: Citation-driven document exploration via word embeddings. IEEE transactions on visualization and computer graphics, 23(1):691–700, 2016.
 
-[4] E.BertiniandG.Santucci.Bychanceisnotenough:preservingrelative density through nonuniform sampling. In Proceedings of the Eighth International Conference on Information Visualisation, pages 622–629. IEEE, 2004.
+[4] E. Bertini and G.Santucci. By chance is not enough: preserving relative density through non-uniform sampling. In Proceedings of the Eighth International Conference on Information Visualisation, pages 622–629. IEEE, 2004.
 
-[5] R.Hu,T.Sha,O.VanKaick,O.Deussen,andH.Huang.Datasampling in multi-view and multi-class scatterplots via set cover optimization. IEEE Transactions on Visualization and Computer Graphics, 26(1):739–748,
-2020.
+[5] R. Hu, T. Sha, O. VanKaick, O. Deussen, and H. Huang. Data sampling in multi-view and multi-class scatterplots via set cover optimization. IEEE Transactions on Visualization and Computer Graphics, 26(1):739–748, 2020.
 
-[6] P.Joia,F.Petronetto,andL.Nonato.Uncoveringrepresentativegroupsin multidimensional projections. Computer Graphics Forum, 34(3):281–290, 2015.
+[6] P. Joia, F. Petronetto, and L. Nonato. Uncovering representative groups in multidimensional projections. Computer Graphics Forum, 34(3):281–290, 2015.
 
-[7] S.Cheng,W.Xu,andK.Mueller.ColorMapND:Adata-drivenapproach and tool for mapping multivariate data to color. IEEE Transactions on Visualization and Computer Graphics, 25(2):1361–1377, 2019.
+[7] S. Cheng, W. Xu, and K. Mueller. ColorMapND: A data-driven approach and tool for mapping multivariate data to color. IEEE Transactions on Visualization and Computer Graphics, 25(2):1361–1377, 2019.
 
 [8] S. Liu, J. Xiao, J. Liu, X. Wang, J. Wu, and J. Zhu. Visual diagnosis of tree boosting methods. IEEE transactions on visualization and computer graphics, 24(1):163–173, 2017.
 
-[9] S.Xiang,X.Ye,J.Xia,J.Wu,Y.Chen,andS.Liu.Interactivecorrection
-of mislabeled training data. In Proceedings of the IEEE Conference on
-Visual Analytics Science and Technology, pages 57–68, 2019.
+[9] S. Xiang, X. Ye, J. Xia, J. Wu, Y. Chen, and S. Liu. Interactivecorrection of mislabeled training data. In Proceedings of the IEEE Conference on Visual Analytics Science and Technology, pages 57–68, 2019.
 
-[10] L.-Y.Wei.Multi-classbluenoisesampling.*ACMTransactionsonGraph- ics*, 29(4):79, 2010.
+[10] L. -Y. Wei. Multi-class blue noise sampling. ACM Transactions on Graphics, 29(4):79, 2010.
 
 [11] X. Chen, T. Ge, J. Zhang, B. Chen, C. Fu, O. Deussen, and Y. Wang. A recursive subdivision technique for sampling multi-class scatterplots. IEEE Transactions on Visualization and Computer Graphics, 26(1):729– 738, 2020.
 
@@ -201,11 +198,10 @@ Visual Analytics Science and Technology, pages 57–68, 2019.
 
 [13] A. Coraddu, L. Oneto, A. Ghio, S. Savio, D. Anguita, and M. Figari. Machine learning approaches for improving condition-based maintenance of naval propulsion plants. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 230(1):136–153, 2014.
 
-[14] B. A. Johnson and K. Iizuka. Integrating OpenStreetMap crowdsourced
-data and landsat time-series imagery for rapid land use/land cover (LULC) mapping: Case study of the laguna de bay area of the philippines. Applied Geography, 67:140–149, 2016.
+[14] B. A. Johnson and K. Iizuka. Integrating OpenStreetMap crowdsourced data and landsat time-series imagery for rapid land use/land cover (LULC) mapping: Case study of the laguna de bay area of the philippines. Applied Geography, 67:140–149, 2016.
 
 [15] Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11):2278– 2324, 1998.
 
-[16] R.G.Andrzejak,K.Lehnertz,F.Mormann,C.Rieke,P.David,andC.E. Elger. Indications of nonlinear deterministic and finite-dimensional struc- tures in time series of brain electrical activity: Dependence on recording region and brain state. Physical Review E, 64(6):061907, 2001.
+[16] R. G. Andrzejak, K.Lehnertz, F. Mormann, C. Rieke, P. David, and C.E. Elger. Indications of nonlinear deterministic and finite-dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state. Physical Review E, 64(6):061907, 2001.
 
 [17] D. Dua and C. Graff. UCI machine learning repository, 2017.
