@@ -156,6 +156,12 @@ The projection results of the full datasets are shown in the following figure, w
 
 ![](fig2.png)
 
+## Trial data
+
+The folder `trial data` contains the trial data of our evaluation.
+
+You can obtain our analysis results by directly run `process.py`.
+
 ## Additional Information
 
 Please cite our work as:
