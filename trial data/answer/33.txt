@@ -1,0 +1,274 @@
+density_1
+synthetic-0 random sampling 1,0
+synthetic-1 random sampling 0,1
+synthetic-0 blue noise sampling 1,0
+synthetic-1 blue noise sampling 1,0
+synthetic-0 density biased sampling 1,0
+synthetic-1 density biased sampling 0,1
+synthetic-0 multi-view Z order sampling 0,1
+synthetic-1 multi-view Z order sampling 0,1
+synthetic-0 multi-class blue noise sampling 1,0
+synthetic-1 multi-class blue noise sampling 0,1
+synthetic-0 outlier biased density based sampling 0,1
+synthetic-1 outlier biased density based sampling 1,0
+synthetic-0 recursive subdivision based sampling 1,0
+synthetic-1 recursive subdivision based sampling 1,0
+mnist-0 random sampling 0,1
+mnist-1 random sampling 0,1
+mnist-0 blue noise sampling 0,1
+mnist-1 blue noise sampling 0,1
+mnist-0 density biased sampling 0,1
+mnist-1 density biased sampling 1,0
+mnist-0 multi-view Z order sampling 1,0
+mnist-1 multi-view Z order sampling 0,1
+mnist-0 multi-class blue noise sampling 1,0
+mnist-1 multi-class blue noise sampling 0,1
+mnist-0 outlier biased density based sampling 1,0
+mnist-1 outlier biased density based sampling 1,0
+mnist-0 recursive subdivision based sampling 1,0
+mnist-1 recursive subdivision based sampling 1,0
+swiss_roll_2d-0 random sampling 1,0
+swiss_roll_2d-1 random sampling 1,0
+swiss_roll_2d-0 blue noise sampling 1,0
+swiss_roll_2d-1 blue noise sampling 1,0
+swiss_roll_2d-0 density biased sampling 1,0
+swiss_roll_2d-1 density biased sampling 1,0
+swiss_roll_2d-0 multi-view Z order sampling 0,1
+swiss_roll_2d-1 multi-view Z order sampling 0,1
+swiss_roll_2d-0 multi-class blue noise sampling 0,1
+swiss_roll_2d-1 multi-class blue noise sampling 0,1
+swiss_roll_2d-0 outlier biased density based sampling 0,1
+swiss_roll_2d-1 outlier biased density based sampling 0,1
+swiss_roll_2d-0 recursive subdivision based sampling 1,0
+swiss_roll_2d-1 recursive subdivision based sampling 0,1
+swiss_roll_3d-0 random sampling 0,1
+swiss_roll_3d-1 random sampling 1,0
+swiss_roll_3d-0 blue noise sampling 0,1
+swiss_roll_3d-1 blue noise sampling 1,0
+swiss_roll_3d-0 density biased sampling 0,1
+swiss_roll_3d-1 density biased sampling 0,1
+swiss_roll_3d-0 multi-view Z order sampling 0,1
+swiss_roll_3d-1 multi-view Z order sampling 1,0
+swiss_roll_3d-0 multi-class blue noise sampling 0,1
+swiss_roll_3d-1 multi-class blue noise sampling 1,0
+swiss_roll_3d-0 outlier biased density based sampling 1,0
+swiss_roll_3d-1 outlier biased density based sampling 1,0
+swiss_roll_3d-0 recursive subdivision based sampling 1,0
+swiss_roll_3d-1 recursive subdivision based sampling 1,0
+abalone-0 random sampling 0,1
+abalone-1 random sampling 1,0
+abalone-0 blue noise sampling 1,0
+abalone-1 blue noise sampling 1,0
+abalone-0 density biased sampling 0,1
+abalone-1 density biased sampling 1,0
+abalone-0 multi-view Z order sampling 0,1
+abalone-1 multi-view Z order sampling 0,1
+abalone-0 multi-class blue noise sampling 1,0
+abalone-1 multi-class blue noise sampling 0,1
+abalone-0 outlier biased density based sampling 1,0
+abalone-1 outlier biased density based sampling 0,1
+abalone-0 recursive subdivision based sampling 0,1
+abalone-1 recursive subdivision based sampling 1,0
+clothes-0 random sampling 0,1
+clothes-1 random sampling 0,1
+clothes-0 blue noise sampling 0,1
+clothes-1 blue noise sampling 0,1
+clothes-0 density biased sampling 0,1
+clothes-1 density biased sampling 1,0
+clothes-0 multi-view Z order sampling 1,0
+clothes-1 multi-view Z order sampling 1,0
+clothes-0 multi-class blue noise sampling 1,0
+clothes-1 multi-class blue noise sampling 1,0
+clothes-0 outlier biased density based sampling 1,0
+clothes-1 outlier biased density based sampling 1,0
+clothes-0 recursive subdivision based sampling 1,0
+clothes-1 recursive subdivision based sampling 0,1
+crowdsourced_mapping-0 random sampling 1,0
+crowdsourced_mapping-1 random sampling 0,1
+crowdsourced_mapping-0 blue noise sampling 0,1
+crowdsourced_mapping-1 blue noise sampling 1,0
+crowdsourced_mapping-0 density biased sampling 1,0
+crowdsourced_mapping-1 density biased sampling 1,0
+crowdsourced_mapping-0 multi-view Z order sampling 0,1
+crowdsourced_mapping-1 multi-view Z order sampling 0,1
+crowdsourced_mapping-0 multi-class blue noise sampling 0,1
+crowdsourced_mapping-1 multi-class blue noise sampling 1,0
+crowdsourced_mapping-0 outlier biased density based sampling 0,1
+crowdsourced_mapping-1 outlier biased density based sampling 1,0
+crowdsourced_mapping-0 recursive subdivision based sampling 0,1
+crowdsourced_mapping-1 recursive subdivision based sampling 0,1
+epileptic_seizure-0 random sampling 1,0
+epileptic_seizure-1 random sampling 1,0
+epileptic_seizure-0 blue noise sampling 0,1
+epileptic_seizure-1 blue noise sampling 0,1
+epileptic_seizure-0 density biased sampling 0,1
+epileptic_seizure-1 density biased sampling 0,1
+epileptic_seizure-0 multi-view Z order sampling 0,1
+epileptic_seizure-1 multi-view Z order sampling 0,1
+epileptic_seizure-0 multi-class blue noise sampling 0,1
+epileptic_seizure-1 multi-class blue noise sampling 1,0
+epileptic_seizure-0 outlier biased density based sampling 0,1
+epileptic_seizure-1 outlier biased density based sampling 0,1
+epileptic_seizure-0 recursive subdivision based sampling 1,0
+epileptic_seizure-1 recursive subdivision based sampling 0,1
+condition_based_maintenance-0 random sampling 1,0
+condition_based_maintenance-1 random sampling 0,1
+condition_based_maintenance-0 blue noise sampling 0,1
+condition_based_maintenance-1 blue noise sampling 1,0
+condition_based_maintenance-0 density biased sampling 1,0
+condition_based_maintenance-1 density biased sampling 0,1
+condition_based_maintenance-0 multi-view Z order sampling 1,0
+condition_based_maintenance-1 multi-view Z order sampling 1,0
+condition_based_maintenance-0 multi-class blue noise sampling 1,0
+condition_based_maintenance-1 multi-class blue noise sampling 1,0
+condition_based_maintenance-0 outlier biased density based sampling 0,1
+condition_based_maintenance-1 outlier biased density based sampling 1,0
+condition_based_maintenance-0 recursive subdivision based sampling 1,0
+condition_based_maintenance-1 recursive subdivision based sampling 1,0
+synthetic_0-easy random sampling 0,1
+synthetic_0-hard random sampling 0,1
+synthetic_1-easy random sampling 0,1
+synthetic_1-hard random sampling 0,1
+synthetic_2-easy random sampling 1,0
+synthetic_2-hard random sampling 0,1
+synthetic_3-easy random sampling 1,0
+synthetic_3-hard random sampling 1,0
+synthetic_4-easy random sampling 0,1
+synthetic_4-hard random sampling 1,0
+synthetic_5-easy random sampling 1,0
+synthetic_5-hard random sampling 0,1
+synthetic_6-easy random sampling 0,1
+synthetic_6-hard random sampling 0,1
+synthetic_7-easy random sampling 1,0
+synthetic_7-hard random sampling 0,1
+synthetic_8-easy random sampling 0,1
+synthetic_8-hard random sampling 1,0
+synthetic_9-easy random sampling 1,0
+synthetic_9-hard random sampling 0,1
+density_2
+synthetic-0 random sampling 0,1
+synthetic-1 random sampling 1,0
+synthetic-0 blue noise sampling 0,1
+synthetic-1 blue noise sampling 0,1
+synthetic-0 density biased sampling 0,1
+synthetic-1 density biased sampling 1,0
+synthetic-0 multi-view Z order sampling 1,0
+synthetic-1 multi-view Z order sampling 1,0
+synthetic-0 multi-class blue noise sampling 1,0
+synthetic-1 multi-class blue noise sampling 0,1
+synthetic-0 outlier biased density based sampling 1,0
+synthetic-1 outlier biased density based sampling 0,1
+synthetic-0 recursive subdivision based sampling 0,1
+synthetic-1 recursive subdivision based sampling 0,1
+mnist-0 random sampling 1,0
+mnist-1 random sampling 0,1
+mnist-0 blue noise sampling 0,1
+mnist-1 blue noise sampling 0,1
+mnist-0 density biased sampling 1,0
+mnist-1 density biased sampling 0,1
+mnist-0 multi-view Z order sampling 1,0
+mnist-1 multi-view Z order sampling 1,0
+mnist-0 multi-class blue noise sampling 1,0
+mnist-1 multi-class blue noise sampling 0,1
+mnist-0 outlier biased density based sampling 0,1
+mnist-1 outlier biased density based sampling 1,0
+mnist-0 recursive subdivision based sampling 1,0
+mnist-1 recursive subdivision based sampling 1,0
+swiss_roll_2d-0 random sampling 1,0
+swiss_roll_2d-1 random sampling 1,0
+swiss_roll_2d-0 blue noise sampling 0,1
+swiss_roll_2d-1 blue noise sampling 0,1
+swiss_roll_2d-0 density biased sampling 0,1
+swiss_roll_2d-1 density biased sampling 1,0
+swiss_roll_2d-0 multi-view Z order sampling 1,0
+swiss_roll_2d-1 multi-view Z order sampling 0,1
+swiss_roll_2d-0 multi-class blue noise sampling 1,0
+swiss_roll_2d-1 multi-class blue noise sampling 1,0
+swiss_roll_2d-0 outlier biased density based sampling 0,1
+swiss_roll_2d-1 outlier biased density based sampling 0,1
+swiss_roll_2d-0 recursive subdivision based sampling 0,1
+swiss_roll_2d-1 recursive subdivision based sampling 1,0
+swiss_roll_3d-0 random sampling 0,1
+swiss_roll_3d-1 random sampling 0,1
+swiss_roll_3d-0 blue noise sampling 0,1
+swiss_roll_3d-1 blue noise sampling 0,1
+swiss_roll_3d-0 density biased sampling 0,1
+swiss_roll_3d-1 density biased sampling 1,0
+swiss_roll_3d-0 multi-view Z order sampling 1,0
+swiss_roll_3d-1 multi-view Z order sampling 0,1
+swiss_roll_3d-0 multi-class blue noise sampling 1,0
+swiss_roll_3d-1 multi-class blue noise sampling 1,0
+swiss_roll_3d-0 outlier biased density based sampling 1,0
+swiss_roll_3d-1 outlier biased density based sampling 0,1
+swiss_roll_3d-0 recursive subdivision based sampling 1,0
+swiss_roll_3d-1 recursive subdivision based sampling 0,1
+abalone-0 random sampling 1,0
+abalone-1 random sampling 1,0
+abalone-0 blue noise sampling 1,0
+abalone-1 blue noise sampling 1,0
+abalone-0 density biased sampling 1,0
+abalone-1 density biased sampling 0,1
+abalone-0 multi-view Z order sampling 1,0
+abalone-1 multi-view Z order sampling 1,0
+abalone-0 multi-class blue noise sampling 0,1
+abalone-1 multi-class blue noise sampling 0,1
+abalone-0 outlier biased density based sampling 1,0
+abalone-1 outlier biased density based sampling 1,0
+abalone-0 recursive subdivision based sampling 0,1
+abalone-1 recursive subdivision based sampling 1,0
+clothes-0 random sampling 0,1
+clothes-1 random sampling 1,0
+clothes-0 blue noise sampling 1,0
+clothes-1 blue noise sampling 0,1
+clothes-0 density biased sampling 1,0
+clothes-1 density biased sampling 1,0
+clothes-0 multi-view Z order sampling 0,1
+clothes-1 multi-view Z order sampling 1,0
+clothes-0 multi-class blue noise sampling 1,0
+clothes-1 multi-class blue noise sampling 1,0
+clothes-0 outlier biased density based sampling 1,0
+clothes-1 outlier biased density based sampling 1,0
+clothes-0 recursive subdivision based sampling 1,0
+clothes-1 recursive subdivision based sampling 0,1
+crowdsourced_mapping-0 random sampling 1,0
+crowdsourced_mapping-1 random sampling 1,0
+crowdsourced_mapping-0 blue noise sampling 0,1
+crowdsourced_mapping-1 blue noise sampling 0,1
+crowdsourced_mapping-0 density biased sampling 0,1
+crowdsourced_mapping-1 density biased sampling 0,1
+crowdsourced_mapping-0 multi-view Z order sampling 0,1
+crowdsourced_mapping-1 multi-view Z order sampling 0,1
+crowdsourced_mapping-0 multi-class blue noise sampling 0,1
+crowdsourced_mapping-1 multi-class blue noise sampling 0,1
+crowdsourced_mapping-0 outlier biased density based sampling 1,0
+crowdsourced_mapping-1 outlier biased density based sampling 0,1
+crowdsourced_mapping-0 recursive subdivision based sampling 1,0
+crowdsourced_mapping-1 recursive subdivision based sampling 1,0
+epileptic_seizure-0 random sampling 1,0
+epileptic_seizure-1 random sampling 0,1
+epileptic_seizure-0 blue noise sampling 1,0
+epileptic_seizure-1 blue noise sampling 1,0
+epileptic_seizure-0 density biased sampling 1,0
+epileptic_seizure-1 density biased sampling 0,1
+epileptic_seizure-0 multi-view Z order sampling 0,1
+epileptic_seizure-1 multi-view Z order sampling 0,1
+epileptic_seizure-0 multi-class blue noise sampling 1,0
+epileptic_seizure-1 multi-class blue noise sampling 0,1
+epileptic_seizure-0 outlier biased density based sampling 0,1
+epileptic_seizure-1 outlier biased density based sampling 1,0
+epileptic_seizure-0 recursive subdivision based sampling 0,1
+epileptic_seizure-1 recursive subdivision based sampling 0,1
+condition_based_maintenance-0 random sampling 1,0
+condition_based_maintenance-1 random sampling 1,0
+condition_based_maintenance-0 blue noise sampling 1,0
+condition_based_maintenance-1 blue noise sampling 1,0
+condition_based_maintenance-0 density biased sampling 0,1
+condition_based_maintenance-1 density biased sampling 1,0
+condition_based_maintenance-0 multi-view Z order sampling 1,0
+condition_based_maintenance-1 multi-view Z order sampling 0,1
+condition_based_maintenance-0 multi-class blue noise sampling 0,1
+condition_based_maintenance-1 multi-class blue noise sampling 1,0
+condition_based_maintenance-0 outlier biased density based sampling 0,1
+condition_based_maintenance-1 outlier biased density based sampling 0,1
+condition_based_maintenance-0 recursive subdivision based sampling 1,0
+condition_based_maintenance-1 recursive subdivision based sampling 1,0
