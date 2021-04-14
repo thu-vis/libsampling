@@ -22,7 +22,7 @@ LibSampling
 + outlier biased density based sampling [9] 
 + multi-class blue noise sampling [10] 
 + multi-view Z-order sampling [5] 
-+ recursive subdivision based sampling [12] 
++ recursive subdivision based sampling [11] 
 
 Our goal is to facilitate the use of the popular sampling methods in visualization, graphics, and data mining. **LibSampling** provides a simple python interface where users can easily apply an appropriate sampling method to their data. The characteristics of the sampling methods and the evaluation results of our study are listed as follows:
 
@@ -179,6 +179,9 @@ Please cite our work as:
 ```
 
 J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
+
+## Acknowledgments
+The lib `sampling/RSBS.dll` for Recursive subdivision based sampling is derived from the source code at the homepage of [11]. (Link: https://github.com/Ideas-Laboratory/RecursiveSubdivision-basedSampling)
 
 ## References
 
