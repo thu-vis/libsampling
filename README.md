@@ -129,7 +129,7 @@ print(sampled_point, sampled_category)
 
 The folder `data` contains the datasets in the *npz* format used in our study.
 
-Direct link: https://github.com/libsampling/libsampling/tree/master/data
+Direct link: https://github.com/thu-vis/libsampling/tree/master/data
 
 You can obtain them by unzipping the *npz* file:
 
