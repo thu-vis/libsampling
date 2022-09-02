@@ -178,7 +178,7 @@ Please cite our work as:
 }
 ```
 
-J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(1):1–1, 2021.
+J. Yuan, S. Xiang, J. Xia, L. Yu, and S. Liu. Evaluation of Sampling Methods for Scatterplots. IEEE Transactions on Visualization and Computer Graphics, 27(2):1720–1730, 2021.
 
 ## Acknowledgments
 The lib `sampling/RSBS.dll` for Recursive subdivision based sampling is derived from the source code at the homepage of [11]. (Link: https://github.com/Ideas-Laboratory/RecursiveSubdivision-basedSampling)
